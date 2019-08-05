@@ -20,8 +20,9 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Human performance](https://www.youtube.com/watch?v=qouPzSryggk&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=16) by Jem Young
 - [The future of machine learning & JavaScript](https://www.youtube.com/watch?v=hfSjaChrGpI&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=17) by Asim Hussain
 - [Designing with grid](https://www.youtube.com/watch?v=t0b3uBoDkBs&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=18) by Jen Simmons
-
-
+- [The cost of Javascript](https://www.youtube.com/watch?v=63I-mEuSvGA&t=135s) by [Addy Osmani](https://github.com/addyosmani)
+- [Things I Didn't Know About CSS](https://www.youtube.com/watch?v=WjP7TEKB7Uo&t=57s) by [Mathias Bynens](https://github.com/mathiasbynens)
+- [Adopting Typescript at Scale](https://www.youtube.com/watch?v=P-J9Eg7hJwE&t=1314s) by [Brie Bunge](https://github.com/brieb)
 
 ## Design
 - [Everything you know about web design just changed](https://www.youtube.com/watch?v=jBwBACbRuGY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=19) by Jen Simmons
