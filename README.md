@@ -20,10 +20,16 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Human performance](https://www.youtube.com/watch?v=qouPzSryggk&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=16) by Jem Young
 - [The future of machine learning & JavaScript](https://www.youtube.com/watch?v=hfSjaChrGpI&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=17) by Asim Hussain
 - [Designing with grid](https://www.youtube.com/watch?v=t0b3uBoDkBs&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=18) by Jen Simmons
-- [The cost of Javascript](https://www.youtube.com/watch?v=63I-mEuSvGA&t=135s) by [Addy Osmani](https://github.com/addyosmani)
+- [The cost of Javascript 2018](https://www.youtube.com/watch?v=63I-mEuSvGA&t=135s) by [Addy Osmani](https://github.com/addyosmani)
 - [Things I Didn't Know About CSS](https://www.youtube.com/watch?v=WjP7TEKB7Uo&t=57s) by [Mathias Bynens](https://github.com/mathiasbynens)
 - [Adopting Typescript at Scale](https://www.youtube.com/watch?v=P-J9Eg7hJwE&t=1314s) by [Brie Bunge](https://github.com/brieb)
 - [Things Laravel made me believe](https://www.youtube.com/watch?v=mDotS5BDqRM) by [Jeffrey Way](https://github.com/JeffreyWay)
+- [Happy Browser, Happy User!](https://www.youtube.com/watch?v=VAKD_Ob0XTQ) by Katie Sylor Miller
+- [The Cost of JavaScript 2019](https://www.youtube.com/watch?v=X9eRLElSW1c&t=42s) by [Addy Osmani](https://github.com/addyosmani)
+- [Cracking The Coding Interview](https://www.youtube.com/watch?v=rEJzOhC5ZtQ&t=209s) by Gayle L McDowell
+- [Scribe's Oath](https://www.youtube.com/watch?v=Tng6Fox8EfI&t=4s) by Robert C. Martin
+- [SOLID Principles of Object Oriented and Agile Design](https://www.youtube.com/watch?v=TMuno5RZNeE) by Robert C. Martin
+- [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by Robert C. Martin
 
 ## Design
 - [Everything you know about web design just changed](https://www.youtube.com/watch?v=jBwBACbRuGY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=19) by Jen Simmons
@@ -33,3 +39,4 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?referrer=playlist-the_most_popular_talks_of_all#t-67732) by Sir Ken Robinson
 - [The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability/up-next?referrer=playlist-the_most_popular_talks_of_all) by Brené Brown
 - [My stroke of insight](https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight/up-next) by Jill Bolte Taylor
+- [The mind behind Linux ](https://www.youtube.com/watch?v=o8NPllzkFhE) by Linus Torvalds
