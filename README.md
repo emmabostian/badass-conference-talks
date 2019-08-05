@@ -5,7 +5,7 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=2&t=0s) by Philip Roberts
 - [A cartoon intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=3&t=0s) by Lin Clark
 - [Web typography: a non-English perspective](https://www.youtube.com/watch?v=yLQHDGRLOwQ&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=4&t=0s) by Hui Jing Chen
-- [Teaching GraphQL](https://www.youtube.com/watch?v=jBmkNF1-KuY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=5&t=0s) by Even Porcello
+- [Teaching GraphQL](https://www.youtube.com/watch?v=jBmkNF1-KuY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=5&t=0s) by Eve Porcello
 - [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=6&t=0s) by Jake Archibald
 - [Data visualizations](https://www.youtube.com/watch?v=S1PDU2Ckt5w&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=7&t=0s) by Shirley Wu
 - [Everything  you need to know about GraphQL in 3 components](https://www.youtube.com/watch?v=F_M8v6MK0Sc&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=8&t=0s) by Eve Porcello
