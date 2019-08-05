@@ -25,3 +25,9 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 
 ## Design
 - [Everything you know about web design just changed](https://www.youtube.com/watch?v=jBwBACbRuGY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=19) by Jen Simmons
+- [Designing for friction: thoughts on the future of human-centered design](https://vimeo.com/351622375) by Steve Selzer
+
+## TED
+[Do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?referrer=playlist-the_most_popular_talks_of_all#t-67732) by Sir Ken Robinson
+[The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability/up-next?referrer=playlist-the_most_popular_talks_of_all) by Brené Brown
+[My stroke of insight](https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight/up-next) by Jill Bolte Taylor
