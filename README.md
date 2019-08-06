@@ -20,12 +20,16 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Human performance](https://www.youtube.com/watch?v=qouPzSryggk&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=16) by Jem Young
 - [The future of machine learning & JavaScript](https://www.youtube.com/watch?v=hfSjaChrGpI&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=17) by Asim Hussain
 - [Designing with grid](https://www.youtube.com/watch?v=t0b3uBoDkBs&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=18) by Jen Simmons
+- [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=-lMVH3DtMFQ) by Tim Berglund
+- [Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY&t=471s) by Russ Olsen
+- [Every Programming Language in 15 Minutes](https://www.youtube.com/watch?v=7sOGQGvMXJc) by Brian Will
 
 
 
 ## Design
 - [Everything you know about web design just changed](https://www.youtube.com/watch?v=jBwBACbRuGY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=19) by Jen Simmons
 - [Designing for friction: thoughts on the future of human-centered design](https://vimeo.com/351622375) by Steve Selzer
+- [Refactoring UI](https://www.youtube.com/watch?v=7Z9rrryIOC4) by Steve Schoger
 
 ## TED
 - [Do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?referrer=playlist-the_most_popular_talks_of_all#t-67732) by Sir Ken Robinson
