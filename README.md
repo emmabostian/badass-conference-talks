@@ -23,7 +23,7 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=-lMVH3DtMFQ) by Tim Berglund
 - [Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY&t=471s) by Russ Olsen
 - [Every Programming Language in 15 Minutes](https://www.youtube.com/watch?v=7sOGQGvMXJc) by Brian Will
-
+- [10 Tips for failing badly at Microservices](https://m.youtube.com/watch?v=X0tjziAQfNQ) by David Schmitz
 
 
 ## Design
