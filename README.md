@@ -30,6 +30,7 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Scribe's Oath](https://www.youtube.com/watch?v=Tng6Fox8EfI&t=4s) by Robert C. Martin
 - [SOLID Principles of Object Oriented and Agile Design](https://www.youtube.com/watch?v=TMuno5RZNeE) by Robert C. Martin
 - [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by Robert C. Martin
+- [10 Tips for failing badly at Microservices](https://m.youtube.com/watch?v=X0tjziAQfNQ) by David Schmitz
 
 ## Design
 - [Everything you know about web design just changed](https://www.youtube.com/watch?v=jBwBACbRuGY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=19) by Jen Simmons
