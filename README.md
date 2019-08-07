@@ -21,6 +21,7 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [The future of machine learning & JavaScript](https://www.youtube.com/watch?v=hfSjaChrGpI&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=17) by Asim Hussain
 - [Designing with grid](https://www.youtube.com/watch?v=t0b3uBoDkBs&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=18) by Jen Simmons
 - [10 Tips for failing badly at Microservices](https://m.youtube.com/watch?v=X0tjziAQfNQ) by David Schmitz
+- [Top 5 HTML5 and CSS3 Questions Answered!](https://youtu.be/GGjpXlUxeNE?list=LLyoCUeDQirxqXjx5b7sCWrw) by Jonas Schmedtmann
 
 ## Design
 - [Everything you know about web design just changed](https://www.youtube.com/watch?v=jBwBACbRuGY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=19) by Jen Simmons
