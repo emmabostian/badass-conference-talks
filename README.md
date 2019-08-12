@@ -46,6 +46,7 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [SOLID Principles of Object Oriented and Agile Design](https://www.youtube.com/watch?v=TMuno5RZNeE) by Robert C. Martin
 - [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by Robert C. Martin
 - [10 Tips for failing badly at Microservices](https://m.youtube.com/watch?v=X0tjziAQfNQ) by David Schmitz
+- [Top 5 HTML5 and CSS3 Questions Answered!](https://youtu.be/GGjpXlUxeNE?list=LLyoCUeDQirxqXjx5b7sCWrw) by Jonas Schmedtmann
 - [The Three Laws of TDD](https://youtu.be/qkblc5WRn-U?list=WL) by Robert C. Martin
 
 
