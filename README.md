@@ -50,7 +50,8 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [The Many Meanings of Event-Driven Architecture](https://youtu.be/STKCRSUsyP0) by Martin Fowler
 - [Top 5 HTML5 and CSS3 Questions Answered!](https://youtu.be/GGjpXlUxeNE?list=LLyoCUeDQirxqXjx5b7sCWrw) by Jonas Schmedtmann
 - [The Three Laws of TDD](https://youtu.be/qkblc5WRn-U?list=WL) by Robert C. Martin
-
+- [CSS Grid in 45 Minutes!](https://youtu.be/DCZdCKjnBCs) by Wes Bos
+- [Keep Betting on JavaScript](https://youtu.be/ZrKjgSfpppM) by Kyle Simpson
 
 ## Design
 
@@ -65,4 +66,4 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?referrer=playlist-the_most_popular_talks_of_all#t-67732) by Sir Ken Robinson
 - [The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability/up-next?referrer=playlist-the_most_popular_talks_of_all) by Brené Brown
 - [My stroke of insight](https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight/up-next) by Jill Bolte Taylor
-- [The mind behind Linux ](https://www.youtube.com/watch?v=o8NPllzkFhE) by Linus Torvalds
+- [The mind behind Linux](https://www.youtube.com/watch?v=o8NPllzkFhE) by Linus Torvalds
