@@ -20,6 +20,7 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Human performance](https://www.youtube.com/watch?v=qouPzSryggk&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=16) by Jem Young
 - [The future of machine learning & JavaScript](https://www.youtube.com/watch?v=hfSjaChrGpI&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=17) by Asim Hussain
 - [Designing with grid](https://www.youtube.com/watch?v=t0b3uBoDkBs&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=18) by Jen Simmons
+- [Brain API](https://www.youtube.com/watch?v=hY14Er6JX2s) by Sasha Laundy
 - [ARIA, Accessibility APIs and coding like you give a damn!](https://www.youtube.com/watch?v=qdB8SRhqvFc) by Léonie Watson
 - [Using Rust For Game Development](https://www.youtube.com/watch?v=aKLntZcp27M) by Catherine West
 - [10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) by Ryan Dahl
