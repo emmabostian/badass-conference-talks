@@ -50,6 +50,8 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [The Many Meanings of Event-Driven Architecture](https://youtu.be/STKCRSUsyP0) by Martin Fowler
 - [Top 5 HTML5 and CSS3 Questions Answered!](https://youtu.be/GGjpXlUxeNE?list=LLyoCUeDQirxqXjx5b7sCWrw) by Jonas Schmedtmann
 - [The Three Laws of TDD](https://youtu.be/qkblc5WRn-U?list=WL) by Robert C. Martin
+- [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by James Mickens at USENIX Security '18
+- [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by James Mickens at Monitorama PDX 2014
 
 
 ## Design
