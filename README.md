@@ -20,6 +20,9 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Human performance](https://www.youtube.com/watch?v=qouPzSryggk&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=16) by Jem Young
 - [The future of machine learning & JavaScript](https://www.youtube.com/watch?v=hfSjaChrGpI&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=17) by Asim Hussain
 - [Designing with grid](https://www.youtube.com/watch?v=t0b3uBoDkBs&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=18) by Jen Simmons
+- [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=-lMVH3DtMFQ) by Tim Berglund
+- [Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY&t=471s) by Russ Olsen
+- [Every Programming Language in 15 Minutes](https://www.youtube.com/watch?v=7sOGQGvMXJc) by Brian Will
 - [Brain API](https://www.youtube.com/watch?v=hY14Er6JX2s) by Sasha Laundy
 - [ARIA, Accessibility APIs and coding like you give a damn!](https://www.youtube.com/watch?v=qdB8SRhqvFc) by Léonie Watson
 - [Using Rust For Game Development](https://www.youtube.com/watch?v=aKLntZcp27M) by Catherine West
@@ -37,9 +40,11 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by Robert C. Martin
 - [10 Tips for failing badly at Microservices](https://m.youtube.com/watch?v=X0tjziAQfNQ) by David Schmitz
 
+
 ## Design
 - [Everything you know about web design just changed](https://www.youtube.com/watch?v=jBwBACbRuGY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=19) by Jen Simmons
 - [Designing for friction: thoughts on the future of human-centered design](https://vimeo.com/351622375) by Steve Selzer
+- [Refactoring UI](https://www.youtube.com/watch?v=7Z9rrryIOC4) by Steve Schoger
 - [Creating a brand in a million easy steps](https://www.youtube.com/watch?v=dHu7ev4x8Lg) by Haraldur Thorleifsson
 - [Who will build the next billion websites?](https://www.youtube.com/watch?v=_5OFgYBTuc0) by Vlad Magdalin
 
