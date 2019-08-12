@@ -20,6 +20,10 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Human performance](https://www.youtube.com/watch?v=qouPzSryggk&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=16) by Jem Young
 - [The future of machine learning & JavaScript](https://www.youtube.com/watch?v=hfSjaChrGpI&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=17) by Asim Hussain
 - [Designing with grid](https://www.youtube.com/watch?v=t0b3uBoDkBs&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=18) by Jen Simmons
+- [ARIA, Accessibility APIs and coding like you give a damn!](https://www.youtube.com/watch?v=qdB8SRhqvFc) by Léonie Watson
+- [Using Rust For Game Development](https://www.youtube.com/watch?v=aKLntZcp27M) by Catherine West
+- [10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) by Ryan Dahl
+- [Building a search engine in CSS](https://www.youtube.com/watch?v=NFeRlR9dOwY) by Tim Carry
 - [The cost of Javascript 2018](https://www.youtube.com/watch?v=63I-mEuSvGA&t=135s) by [Addy Osmani](https://github.com/addyosmani)
 - [Things I Didn't Know About CSS](https://www.youtube.com/watch?v=WjP7TEKB7Uo&t=57s) by [Mathias Bynens](https://github.com/mathiasbynens)
 - [Adopting Typescript at Scale](https://www.youtube.com/watch?v=P-J9Eg7hJwE&t=1314s) by [Brie Bunge](https://github.com/brieb)
@@ -35,6 +39,8 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 ## Design
 - [Everything you know about web design just changed](https://www.youtube.com/watch?v=jBwBACbRuGY&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=19) by Jen Simmons
 - [Designing for friction: thoughts on the future of human-centered design](https://vimeo.com/351622375) by Steve Selzer
+- [Creating a brand in a million easy steps](https://www.youtube.com/watch?v=dHu7ev4x8Lg) by Haraldur Thorleifsson
+- [Who will build the next billion websites?](https://www.youtube.com/watch?v=_5OFgYBTuc0) by Vlad Magdalin
 
 ## TED
 - [Do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?referrer=playlist-the_most_popular_talks_of_all#t-67732) by Sir Ken Robinson
