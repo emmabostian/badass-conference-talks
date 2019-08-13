@@ -20,7 +20,7 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Human performance](https://www.youtube.com/watch?v=qouPzSryggk&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=16) by Jem Young
 - [The future of machine learning & JavaScript](https://www.youtube.com/watch?v=hfSjaChrGpI&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=17) by Asim Hussain
 - [Designing with grid](https://www.youtube.com/watch?v=t0b3uBoDkBs&list=PL53pZ-rLrpJcvXrYWhIG9fu1wbp8KGXlO&index=18) by Jen Simmons
-- [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=-lMVH3DtMFQ) by Tim Berglund
+- [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) by Tim Berglund
 - [Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY&t=471s) by Russ Olsen
 - [Every Programming Language in 15 Minutes](https://www.youtube.com/watch?v=7sOGQGvMXJc) by Brian Will
 - [Brain API](https://www.youtube.com/watch?v=hY14Er6JX2s) by Sasha Laundy
