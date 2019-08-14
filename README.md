@@ -66,3 +66,4 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability/up-next?referrer=playlist-the_most_popular_talks_of_all) by Brené Brown
 - [My stroke of insight](https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight/up-next) by Jill Bolte Taylor
 - [The mind behind Linux ](https://www.youtube.com/watch?v=o8NPllzkFhE) by Linus Torvalds
+- [Inside the mind of a master procrastinator](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator) by Tim Urban
