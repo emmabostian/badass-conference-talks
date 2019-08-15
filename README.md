@@ -50,7 +50,7 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [The Many Meanings of Event-Driven Architecture](https://youtu.be/STKCRSUsyP0) by Martin Fowler
 - [Top 5 HTML5 and CSS3 Questions Answered!](https://youtu.be/GGjpXlUxeNE?list=LLyoCUeDQirxqXjx5b7sCWrw) by Jonas Schmedtmann
 - [The Three Laws of TDD](https://youtu.be/qkblc5WRn-U?list=WL) by Robert C. Martin
-
+- [Ready for Readable Code?](https://youtu.be/56mETnrByBM) by John Papa
 
 ## Design
 
