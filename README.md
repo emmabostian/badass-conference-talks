@@ -25,7 +25,6 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Things Laravel Made Me Believe](https://www.youtube.com/watch?v=mDotS5BDqRM) by Jeffrey Way
 - [A Web without JavaScript](https://www.youtube.com/watch?v=2XSeNQyPlTY) by Russell keith-magee at PyCon AU 2018
 - [Writing great documentation](https://www.youtube.com/watch?v=z3fRu9pkuXE) by Jacob Kaplan-Moss at PyCon2011 Atlanta
-- [VS Code Can Do That?! VS Code Tips and Tricks](https://www.youtube.com/watch?v=x5GzCohd4eo) by John papa & Burke holland at Microsoft Build 2018
 - [How A Blind Developer Uses Visual Studio](https://www.youtube.com/watch?v=94swlF55tVc) by Saqib Shaikh at Microsoft Build 2017
 - [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=-lMVH3DtMFQ) by Tim Berglund
 - [Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY&t=471s) by Russ Olsen
